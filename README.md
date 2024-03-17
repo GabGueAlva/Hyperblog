@@ -9,6 +9,7 @@
 - Actualmente participo de un laboratorio enfocado a proyectos de inteligencia artificial súper interesantes. 
 - Creado por Gabriela Guevara
 - Funciona para windows 
+- Disponible para todas las edades
 
 ###Intereses
 
